@@ -1,0 +1,79 @@
+[
+  {
+    "product_id": "demo-001",
+    "product_name": "Nike Air Zoom Pegasus 40",
+    "brand": "Nike",
+    "reviewer": "RunnerJane",
+    "rating": 5.0,
+    "title": "Best running shoe I've owned",
+    "body": "I've been running in these for 3 months and they're incredible. The cushioning is perfect for long distances — I did a half marathon and my feet felt great at mile 13. True to size and the wide toe box is a bonus. Breathable mesh keeps my feet cool even in summer heat.",
+    "date": "2024-11-15",
+    "verified_purchase": true
+  },
+  {
+    "product_id": "demo-001",
+    "product_name": "Nike Air Zoom Pegasus 40",
+    "brand": "Nike",
+    "reviewer": "MikeT",
+    "rating": 2.0,
+    "title": "Sole came apart after 2 weeks",
+    "body": "Really disappointed. The outsole started peeling away from the midsole after only two weeks of normal use. I wasn't doing anything extreme, just daily 5k runs. Nike's quality has gone downhill. I had to return them and the customer service process was a nightmare — took 3 weeks to get a refund.",
+    "date": "2024-10-28",
+    "verified_purchase": true
+  },
+  {
+    "product_id": "demo-002",
+    "product_name": "Adidas Ultraboost 23",
+    "brand": "Adidas",
+    "reviewer": "SneakerFan99",
+    "rating": 4.0,
+    "title": "Stylish and comfortable but pricey",
+    "body": "These look amazing and feel great on my feet. The Boost foam is super springy and I can wear them all day without discomfort. My only gripe is the price — at $190 I expected them to last longer. After 6 months the traction is noticeably worn. Good arch support for neutral runners.",
+    "date": "2024-09-05",
+    "verified_purchase": false
+  },
+  {
+    "product_id": "demo-003",
+    "product_name": "New Balance Fresh Foam X 1080v13",
+    "brand": "New Balance",
+    "reviewer": "UltraMarathonDave",
+    "rating": 5.0,
+    "title": "Unmatched cushioning for long runs",
+    "body": "Bought these specifically for marathon training. The Fresh Foam cushioning is absolutely unmatched — it's like running on clouds. Wide toe box gives my toes plenty of room to splay naturally. I've logged 300 miles and the foam still has plenty of life. Highly recommend for high-mileage runners.",
+    "date": "2024-12-01",
+    "verified_purchase": true
+  },
+  {
+    "product_id": "demo-003",
+    "product_name": "New Balance Fresh Foam X 1080v13",
+    "brand": "New Balance",
+    "reviewer": "CasualWalker",
+    "rating": 3.0,
+    "title": "Good but runs very narrow",
+    "body": "The shoe itself is comfortable once I got the right size. Problem is they run very narrow — I'm a D width normally but had to order EE. The sizing guide on Zappos was misleading. Once I got the right width it's fine. Delivery was quick, no complaints there.",
+    "date": "2024-11-20",
+    "verified_purchase": true
+  },
+  {
+    "product_id": "demo-004",
+    "product_name": "HOKA Clifton 9",
+    "brand": "HOKA",
+    "reviewer": "NurseOnFeet",
+    "rating": 5.0,
+    "title": "Life-changing for people on their feet all day",
+    "body": "I'm a nurse and I'm on my feet for 12-hour shifts. These HOKAs have genuinely changed my work life. My knee pain has almost completely disappeared since switching. The maximal cushioning absorbs shock beautifully and the rocker sole helps with fatigue. Worth every penny.",
+    "date": "2024-10-10",
+    "verified_purchase": true
+  },
+  {
+    "product_id": "demo-004",
+    "product_name": "HOKA Clifton 9",
+    "brand": "HOKA",
+    "reviewer": "SpeedDemon",
+    "rating": 2.0,
+    "title": "Too soft for speed work, dangerous on wet pavement",
+    "body": "The cushioning is excessive if you're trying to do any kind of speed training or interval work. Feels unstable at faster paces. Worse, I almost slipped on wet pavement — the traction is terrible in rain. Not what I expected from a $145 shoe. Fine for casual walking maybe but not for athletic performance.",
+    "date": "2024-08-30",
+    "verified_purchase": true
+  }
+]
